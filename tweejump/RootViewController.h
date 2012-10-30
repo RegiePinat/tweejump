@@ -10,11 +10,15 @@
 
 
 @interface RootViewController : UIViewController {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 //test main commit to master
 =======
 //test main test
 >>>>>>> Stashed changes
+=======
+//test main test
+>>>>>>> branch2
 }
 
 @end
