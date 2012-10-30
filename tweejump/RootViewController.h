@@ -10,7 +10,7 @@
 
 
 @interface RootViewController : UIViewController {
-//test 
+//test main
 }
 
 @end
