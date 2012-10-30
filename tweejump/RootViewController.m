@@ -10,7 +10,11 @@
 // RootViewController + iAd
 // If you want to support iAd, use this class as the controller of your iAd
 //
+<<<<<<< Updated upstream
 //test commiting to branch2
+=======
+
+>>>>>>> Stashed changes
 #import "cocos2d.h"
 
 #import "RootViewController.h"
